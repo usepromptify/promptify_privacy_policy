@@ -1,6 +1,6 @@
 # Promptify Chrome Extension Privacy Policy
 
-**Effective Date:** January 1, 2025
+**Effective Date:** September 1, 2025
 
 I respect and value your privacy. This Privacy Policy describes how I handle and protect your personal information in relation to your use of the Promptify Chrome Extension.
 
@@ -61,4 +61,4 @@ By using the Promptify Chrome Extension, you signify your consent and agreement 
 
 ## Contact
 
-If you have questions or concerns about this Privacy Policy, you can contact me through the Chrome Web Store developer contact information or by visiting the project repository at [usepromptify.github.io](https://usepromptify.github.io/).
+If you have questions or concerns about this Privacy Policy, you can contact me at krishnamalhotra150@gmail.com or by visiting the project repository at [usepromptify.github.io](https://usepromptify.github.io/).
